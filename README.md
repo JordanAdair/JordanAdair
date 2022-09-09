@@ -1,4 +1,4 @@
-![JordanAdairFullStackWebDev](https://user-images.githubusercontent.com/43575081/189440221-3c6c1f78-4ad2-4705-9711-3c8fa37c9e34.png)
+<img src="https://user-images.githubusercontent.com/43575081/189440221-3c6c1f78-4ad2-4705-9711-3c8fa37c9e34.png" height=50% width=75%/>
 
 ### Languages & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
