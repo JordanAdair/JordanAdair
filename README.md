@@ -10,5 +10,4 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanadair" height=50% width=50% /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanadair&layout=compact" height=40% width=40% /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanadair&layout=compact" height=50% width=50% /> 
