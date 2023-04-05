@@ -11,3 +11,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanadair&layout=compact" height=50% width=50% /> 
+
+#### Check out my Portfolio! 
+https://JordanAdair.me
+
