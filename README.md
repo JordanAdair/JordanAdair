@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/43575081/189440221-3c6c1f78-4ad2-4705-9711-3c8fa37c9e34.png" />
 
 
-### Languages & Technologies
+## Languages & Technologies
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
